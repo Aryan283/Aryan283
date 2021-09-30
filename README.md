@@ -26,5 +26,5 @@
   
 
 
-[linkedin]: www.linkedin.com/in/aryans201
+[linkedin]: https://www.linkedin.com/in/aryans201/
 
