@@ -11,7 +11,7 @@
 - 🔭 I’m currently working on my Coding skills [ No Projects at the moment ;) ]
 - 🌱 I’m currently learning JavaScript 
 - 💬 Ask me about anything
--  🥅 2021 Goal - Work with people who are pioneers in web development. 
+-  🥅 2022 Goal - Work with people who are pioneers in web development. 
 - ⚡ Fun fact: I'm still exploring the tech universe :)
 
 
