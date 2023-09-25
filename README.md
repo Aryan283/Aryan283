@@ -8,7 +8,7 @@
 
 ### I'm a student studying Computer Science and a Webdev enthusiast
 
-- 🔭 I’m currently working on my Coding skills [ No Projects at the moment ;) ]
+- 🔭 I’m currently working on my Coding skills 
 - 🌱 I’m currently learning JavaScript 
 - 💬 Ask me about anything
 -  🥅 2023 Goal - Work with people who are pioneers in web development. 
