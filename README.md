@@ -6,13 +6,13 @@
 
 
 
-### I'm a student studying Computer Science and a Webdev enthusiast
+### I'm a Software Deev
 
 - 🔭 I’m currently working on my Coding skills 
-- 🌱 I’m currently learning JavaScript 
+- 🌱 I’m currently learning SpringBoot 
 - 💬 Ask me about anything
--  🥅 2023 Goal - Work with people who are pioneers in web development. 
-- ⚡ Fun fact: I'm still exploring the tech universe :)
+-  🥅 2025 Goal - Write Clean and optimised Code that is reusable. 
+- ⚡ Fun fact: I'm still bad at Java :)
 
 
   
