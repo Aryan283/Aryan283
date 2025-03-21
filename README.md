@@ -6,7 +6,7 @@
 
 
 
-### I'm a Software Deev
+### I'm a Software Dev
 
 - 🔭 I’m currently working on my Coding skills 
 - 🌱 I’m currently learning SpringBoot 
